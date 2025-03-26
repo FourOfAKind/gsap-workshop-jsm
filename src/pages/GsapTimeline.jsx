@@ -23,6 +23,7 @@ const GsapTimeline = () => {
         timeline.to('#yellow-box', {
             x: 0,
             borderRadius: '0%',
+
             duration: 1,
             backgroundColor: '#eab308',
         })
